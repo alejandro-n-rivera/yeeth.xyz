@@ -2,20 +2,21 @@ site: Yeeth
 title: Yeeth Security
 greetings: Yeeth 🚀🌕
 description: >-
-  Yeeth is a blockchain security assessment framework
+  We are team of security researchers with a proven track record in both traditional and Web3 security. 
+  Join us in making Web3 a safer place and contact us to audit your project today!
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/p0wex/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: yeeth
-  bio: just a blockchain security assessment framework
+  name: yeeth security
+  bio: Blockchain Security Group
   userpicture: 
-  username: yeeth # general username
-  github: yeeth # github username
-  twitter: yeeth # twitter username
-  email: yeeth@yeeth.xyz # email adress
+  username: yeethsecurity # general username
+  github: yeethsecurity # github username
+  twitter: yeethsecurity # twitter username
+  email: yeethsec@gmail.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900

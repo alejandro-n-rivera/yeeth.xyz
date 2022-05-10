@@ -2,7 +2,8 @@ site: Yeeth
 title: Yeeth Security
 greetings: Yeeth 🆈🚀🌕
 description: >-
-  We are team of security researchers with a proven track record in Web3 security.                   Join us in making Web3 a safer place and contact us to audit your project! c
+  We are team of security researchers with a proven track record in Web3 security. </br>
+  Join us in making Web3 a safer place and contact us to audit your project!
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/p0wex/Gesko # site repo [optional]

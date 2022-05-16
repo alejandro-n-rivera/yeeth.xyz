@@ -1,11 +1,9 @@
 ---
-layout: post
-title: DAOventures - Vault withdraws vulnerable to Sandwich Attacks
-description: DAOventures Sandwich Attack
-summary: Writeup on DAOventures Sandwich Attack
-tags: solidity hacking
-minute: 1
+layout: forward
+target: https://medium.com/@yeethsec/daoventures-sandwich-attack-vulnerability-b8f4402147e0
 ---
+
+
 
 # Details
 This is a report submitted through immunefi about a sandwich attack on DAOventures. The report has been paid out and closed.
